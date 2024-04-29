@@ -1,0 +1,13 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+.titulo-web {
+    display: block;
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(66, 64, 64);
+    color: #f3f3f3;
+}
